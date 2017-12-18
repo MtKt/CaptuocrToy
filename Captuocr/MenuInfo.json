@@ -3,7 +3,7 @@
              {
              "is_separator": false,
              "title": "截图识字",
-             "key": "c",
+             "key": "1",
              "selector": "capturePic4Txt"
              },
              {
@@ -45,7 +45,7 @@
              {
              "is_separator": false,
              "title": "首选项",
-             "key": "p",
+             "key": ",",
              "selector": "preference"
              },
              {
